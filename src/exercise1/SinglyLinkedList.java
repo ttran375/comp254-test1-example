@@ -1,3 +1,4 @@
+package exercise1;
 /*
  * Copyright 2014, Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser
  *
@@ -280,6 +281,6 @@ public class SinglyLinkedList<E> implements Cloneable {
         System.out.println(list2);
         //
         System.out.println(list1.concatenateLists(list1, list2));
-        System.out.println(list1.secondToLast().getElement());
+        // System.out.println(list1.secondToLast().getElement());
     }
 }
