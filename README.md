@@ -20,29 +20,7 @@ node.
 Let’s use the SinglyLinkedList implementation from Lesson 2 slides. Do
 not use the tail.
 
-head
-
-TO
-
-LA
-
-BO
-
-VA
-
-Ø
-
-head
-
-TX
-
-CI
-
-AT
-
-ST
-
-Ø
+![](media/singlylinkedlist.png)
 
 We need to traverse the list L1 to reach the last node. Then, we need to
 link the last node of L1 to first node of L2. This is easy, knowing that
